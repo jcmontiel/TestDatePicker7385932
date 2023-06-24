@@ -28,6 +28,8 @@ fileprivate extension String
 
 class ViewController: UIViewController {
     
+    // For testing PAT-1178
+    
     let kLang = "lang"
     let kIdentifier = "id"
     lazy var languages: [[String:String]] = [
